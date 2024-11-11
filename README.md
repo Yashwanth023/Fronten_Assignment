@@ -101,3 +101,8 @@ This will create a `build` folder in the frontend directory with production-read
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## Screenshots
+![screencapture-fronten-assignment-vercel-app-2024-11-11-17_57_37](https://github.com/user-attachments/assets/f9f4f294-6b51-4803-8fa2-37fd63115e87)
+
+##
